@@ -25,13 +25,13 @@ Run the chatbot using Python:
 <br>
 python chatbot.py<br>
 <br>
-Type messages to interact with the chatbot. Type **'quit'** to end the conversation.
+Type messages to interact with the chatbot. Type **'quit'** to end the conversation.<br>
 <br>
 **File Structure**
-chatbot.py: The main script that implements the chatbot functionality.
+chatbot.py: The main script that implements the chatbot functionality.<br>
 <br>
 **Contributing**
-Feel free to open issues or submit pull requests if you have suggestions or improvements for the application.
+Feel free to open issues or submit pull requests if you have suggestions or improvements for the application.<br>
 <br>
 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
